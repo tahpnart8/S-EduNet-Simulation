@@ -3,7 +3,7 @@
 This repository contains the official simulation artifacts for the paper:
 **"S-EduNet: Implementing Adaptive Zero Trust Principles for Strengthening Educational Cyber Resilience in Vietnam’s Developing Context"**
 
-Accepted at DoSCI2026 (20/03/2026): [S-EduNet](https://drive.google.com/drive/folders/1tuOxFftbIjtkhvprXYp5vFqBoEdY3EZl)
+Accepted at DoSCI2026 (20/03/2026): [S-EduNet](https://drive.google.com/file/d/1dgojB9-t2fpfAt7CtiKfkBqkFjd5AuIX/view?usp=sharing)
 
 ## Contents
 - `S-EduNet-Topology.pkt`: The complete network topology designed in Cisco Packet Tracer.
